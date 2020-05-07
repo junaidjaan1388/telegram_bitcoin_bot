@@ -16,6 +16,11 @@ supported by : ALFRED❤️
 <img width="23%" src="IMG_20200507_224306.jpg"/>
 </p>
 
+## [+] Find Me
+
+[![Github](https://img.shields.io/badge/Github-TECH--COCHI-green?style=for-the-badge&logo=github)](https://github.com/rixon-cochi)
+
+# > [YouTube](https://www.youtube.com/channel/UCdUnJ0qjDZ-psQYtgyoEl9Q)
  
 
 
