@@ -6,7 +6,7 @@ Telegram Auto Mining Bitcoins In Termux
 
 channel yt : jejakka tutorial
 
-supported by : ALFRED
+supported by : ALFRED❤️
 
 ## Auto Mining BTC Click Bot
 
