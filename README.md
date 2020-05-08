@@ -16,6 +16,26 @@ supported by : ALFRED❤️
 <img width="23%" src="IMG_20200507_224306.jpg"/>
 </p>
 
+### How to Install
+
+Open the terminal and type following commands!!!
+
+* ```apt update```
+* ```apt upgrade```
+* ```pkg install git```
+* ```termux-setup-storage```
+* ```pkg install pip```
+* ```pkg install python```
+* ```git clone https://github.com/rixon-cochi/telegram_bitcon_bot```
+* ```cd telegram_bitcoin_bot```
+* ```unzip telethon.zip```
+* ```unzip session.zip```
+* ```pip install -r requirements.txt```
+* ```python bot.py```
+
+
+
+
 ## [+] Find Me
 
 [![Github](https://img.shields.io/badge/Github-TECH--COCHI-green?style=for-the-badge&logo=github)](https://github.com/rixon-cochi)
