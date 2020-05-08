@@ -16,7 +16,7 @@ supported by : ALFRED❤️
 <img width="23%" src="IMG_20200507_224306.jpg"/>
 </p>
 
-### How to Install
+## How to Install
 
 Open the terminal and type following commands!!!
 
