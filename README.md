@@ -39,8 +39,8 @@ Open the terminal and type following commands!!!
 ## [+] Find Me
 
 [![Github](https://img.shields.io/badge/Github-TECH--COCHI-green?style=for-the-badge&logo=github)](https://github.com/rixon-cochi)
+[![YouTube]https://img.shields.io/badge/youtube-TECH--COCHI-green?style=for-the-badge&logo=youtube)](https://www.youtube.com/channel/UCdUnJ0qjDZ-psQYtgyoEl9Q)
 
-# > [YouTube](https://www.youtube.com/channel/UCdUnJ0qjDZ-psQYtgyoEl9Q)
  
 
 
