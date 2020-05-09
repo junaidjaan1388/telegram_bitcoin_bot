@@ -35,7 +35,7 @@ Open the terminal and type following commands!!!
 
 #TECH COCHI TERMUX VIDEO PREVIEW
 
-![](40rq68.gif)
+![](Telebot.gif)
 
 
 ## [+] Find Me
