@@ -33,7 +33,7 @@ Open the terminal and type following commands!!!
 * ```pip install -r requirements.txt```
 * ```python bot.py```
 
-#TECH COCHI TERMUX VIDEO PREVIEW
+## TECH COCHI TERMUX VIDEO PREVIEW
 
 ![](Telebot.gif)
 
