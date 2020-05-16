@@ -2,6 +2,8 @@
 
 Telegram Auto Mining Bitcoins In Termux
 
+# telegram botchannel link [![Telegram](https://img.shields.io/badge/telegram-TECH--COCHI-green?style=for-the-badge&logo=telegram)](https://t.me/BitcoinClick_bot?start=fHQR)
+
 # script by kadal15
 
 channel yt : jejakka tutorial
