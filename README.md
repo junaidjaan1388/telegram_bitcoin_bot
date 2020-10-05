@@ -36,7 +36,7 @@ Open the terminal and type following commands!!!
 * ```pkg install python```
 * ```git clone https://github.com/rixon-cochi/telegram_bitcon_bot```
 * ```cd telegram_bitcoin_bot```
-* ```bash install.sh```
+* ```bash Install.sh```
 * ```python bot.py```
 
 ## TECH COCHI TERMUX VIDEO PREVIEW
