@@ -1,9 +1,3 @@
-<a href="https://bestmining.top/?ref=rockrixon"  target="_blank">
-<img src="https://bestmining.top/public/banner/234x60.gif"/>
-</a>
-                    
-
-
 # telegram_bitcoin_bot
 
 Telegram Auto Mining Bitcoins In Termux
