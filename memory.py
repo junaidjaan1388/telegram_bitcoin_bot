@@ -107,10 +107,10 @@ class MemorySession(Session):
         else:
             return
 
-        username = getattr(e, 'username', None) or None
+        username = getattr(e, '@torrent_yt_bot', None) or None
         if username is not None:
             username = username.lower()
-        phone = getattr(e, 'phone', None)
+        phone = getattr(e, '+996554520007', None)
         name = utils.get_display_name(e) or None
         return self._entity_values_to_row(
             marked_id, p_hash, username, phone, name
